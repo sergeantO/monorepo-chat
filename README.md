@@ -2,9 +2,9 @@
 
 ### base commands
 
-install: `pnpm i`
-dev: `pnpm dev`
-build: `pnpm build`
+- install: `pnpm i`
+- dev: `pnpm dev`
+- build: `pnpm build`
 
 ### db
 ```bash
